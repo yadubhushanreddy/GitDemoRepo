@@ -1,1 +1,3 @@
 First line of code in git repository
+
+User A : Commit by Mac user

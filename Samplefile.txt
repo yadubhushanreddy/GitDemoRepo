@@ -3,5 +3,6 @@ Mac user : First change
 Mac user : Second change
 Windows user : First change
 
-Mac user : Third change done in the morning time
+Mac user : Third change done in the IST time
+Windows user : Second change done in the EST time
 

@@ -1,3 +1,4 @@
 First line of code in git repository
 
 Mac user : First change
+Mac user : Second change
